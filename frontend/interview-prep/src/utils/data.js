@@ -1,9 +1,7 @@
-
-
 export const APP_FEATURES=[
     {
         id:"01",
-        title:"Tailored just fro you",
+        title:"Tailored just for you",
         description:"Get Interview Question and model answer based on your role, experience,and specific focus area "
     },
     {
